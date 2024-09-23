@@ -5,5 +5,8 @@ div {
     text-align: center;
 }
 div div:last-child {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     color: green;
 }
