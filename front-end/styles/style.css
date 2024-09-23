@@ -4,3 +4,6 @@ div {
     height: 100px;
     text-align: center;
 }
+div div:last-child {
+    color: green;
+}
